@@ -2,7 +2,7 @@
 
 A curated list of important articles, papers, projects and other information concerning DeFi analytics.
 
-_If you want to contribute to this list (please do), send me a pull request or contact me [@KumbleMadhu](https://twitter.com/KumbleMadhu)._
+_If you want to contribute to this list (please do), create a pull request or contact me [@KumbleMadhu](https://twitter.com/KumbleMadhu)._
 
 ## Table of contents
 - [Awesome DeFi analytics](#awesome-defi-analytics)
@@ -11,6 +11,9 @@ _If you want to contribute to this list (please do), send me a pull request or c
   - [Online courses](#online-courses)
   - [Books and references](#books-and-references)
   - [Models](#models)
+  - [Products and Startups](#products-and-startups)
+    - [Data providers](#data-providers)
+    - [Analytics](#analytics)
   - [Community](#community)
 
 ## Blogs and articles
@@ -74,12 +77,26 @@ _If you want to contribute to this list (please do), send me a pull request or c
 
 * [Decentralized Finance Explained](https://www.amazon.in/Decentralized-Finance-Explained-IntroBooks-Team-ebook/dp/B08J48GYD5/ref=sr_1_6?dchild=1&keywords=decentralized+finance&qid=1603187165&sr=8-6)
 
+* [Bitcoin Price Prediction: An ARIMA Approach](https://arxiv.org/pdf/1904.05315.pdf)
+
 ## Models
 
 * [Cryptocurrency Predictions with ARIMA](https://www.kaggle.com/taniaj/cryptocurrency-predictions-with-arima)
 
+## Products and Startups
+
+### Data providers
+
+* [Etherscan API](https://etherscan.io/apis)
+* [DeFi pulse data](https://data.defipulse.com/)
+
+### Analytics
+
+* [Dune analytics](https://duneanalytics.com/projects)
+* [Alethio](https://aleth.io/data/defi)
+* [Chainbeat](https://chainbeat.io/)
+* [Loanscan](https://loanscan.io/)
 
 ## Community
 
-* [Blockchain and Cryptocurrency events](https://www.blocksocial.com/events/)
 * [Awesome DeFi analytics telegram](https://telegram.me/awesome_defi_analytics)
