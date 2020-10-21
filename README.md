@@ -33,9 +33,13 @@ _If you want to contribute to this list (please do), send me a pull request or c
   
 * [Ethereum Gas Explained](https://defiprime.com/gas)
 
+* [The DeFi Pulse Index](https://defipulse.com/blog/defi-pulse-index/#:~:text=The%20DeFi%20Pulse%20Index%20is,DeFi%20through%20one%20single%20asset.)
+
 * [Initial DeFi Offering](https://defiprime.com/initial-defi-offering)
 
 * [Inside Yield Farming: A Beginner's Guide to the Latest Craze in DeFi](https://defiprime.com/defi-yield-farming)
+
+* [Yield Farming in Decentralized Finance (DeFi)](https://academy.binance.com/en/articles/what-is-yield-farming-in-decentralized-finance-defi#:~:text=One%20of%20the%20new%20concepts,money%20legos%E2%80%9D%20built%20on%20Ethereum.)
 
 * [Top DeFi Podcasts of 2020](https://defiprime.com/defi-podcasts)
 
