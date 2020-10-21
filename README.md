@@ -10,8 +10,6 @@ _If you want to contribute to this list (please do), send me a pull request or c
   - [Blogs and articles](#blogs-and-articles)
   - [Online courses](#online-courses)
   - [Books and references](#books-and-references)
-    - [Books](#books)
-    - [Papers](#papers)
   - [Models](#models)
   - [Community](#community)
 
@@ -58,8 +56,6 @@ _If you want to contribute to this list (please do), send me a pull request or c
 
 ## Books and references
 
-### Books
-
 * [How to DeFi](https://www.amazon.com/How-DeFi-CoinGecko-ebook/dp/B0868N5GJ8/ref=sr_1_1?dchild=1&keywords=decentralized+finance&qid=1603189619&sr=8-1)
 
 * [Decentralized Finance: How financial independence is possible with blockchain technology](https://www.amazon.com/Decentralized-Finance-independence-blockchain-technology/dp/B087LP2458/ref=sr_1_2?dchild=1&keywords=decentralized+finance&qid=1603189619&sr=8-2)
@@ -72,15 +68,12 @@ _If you want to contribute to this list (please do), send me a pull request or c
 
 * [Decentralized Finance Explained](https://www.amazon.in/Decentralized-Finance-Explained-IntroBooks-Team-ebook/dp/B08J48GYD5/ref=sr_1_6?dchild=1&keywords=decentralized+finance&qid=1603187165&sr=8-6)
 
-### Papers
-
-* [Bitcoin Price Prediction: An ARIMA Approach](https://arxiv.org/pdf/1904.05315.pdf)
-
 ## Models
 
 * [Cryptocurrency Predictions with ARIMA](https://www.kaggle.com/taniaj/cryptocurrency-predictions-with-arima)
 
+
 ## Community
 
 * [Blockchain and Cryptocurrency events](https://www.blocksocial.com/events/)
-* [Awesome DeFi analytics telegram](https://t.me/awesome_defi_analytics)
+* [Awesome DeFi analytics telegram](https://telegram.me/awesome_defi_analytics)
