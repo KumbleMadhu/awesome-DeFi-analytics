@@ -32,7 +32,7 @@ _If you want to contribute to this list (please do), create a pull request or co
 
 * [What is a decentralized exchange?](https://defipulse.com/blog/what-is-a-decentralized-exchange/)
 
-* [geek](https://geek.sg/)
+* [Dissecting Risk in Defi Projects](https://geek.sg/)
   
 * [Ethereum Gas Explained](https://defiprime.com/gas)
 
