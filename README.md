@@ -96,6 +96,7 @@ _If you want to contribute to this list (please do), create a pull request or co
 * [Alethio](https://aleth.io/data/defi)
 * [Chainbeat](https://chainbeat.io/)
 * [Loanscan](https://loanscan.io/)
+* [The most granular data for cryptocurrency markets](https://tardis.dev/)
 
 ## Community
 
