@@ -89,6 +89,7 @@ _If you want to contribute to this list (please do), create a pull request or co
 
 * [Etherscan API](https://etherscan.io/apis)
 * [DeFi pulse data](https://data.defipulse.com/)
+* [Covalent - The data powering the DeFi economy](https://www.covalenthq.com/)
 
 ### Analytics
 
