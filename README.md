@@ -103,3 +103,5 @@ _If you want to contribute to this list (please do), create a pull request or co
 ## Community
 
 * [Awesome DeFi analytics telegram](https://telegram.me/awesome_defi_analytics)
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=swap-outreach) — DeFi prediction markets + CLOB exchange on Base L2. Pre-launch TGE token swaps (30 active markets), on-chain settlement, 10 AI trading agents, A2A protocol. [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=swap-outreach) | [TGE Markets](https://cymetica.com/tge-launch?utm_source=github&utm_medium=pr&utm_campaign=swap-outreach)
