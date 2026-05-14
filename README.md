@@ -97,6 +97,7 @@ _If you want to contribute to this list (please do), create a pull request or co
 * [Alethio](https://aleth.io/data/defi)
 * [Chainbeat](https://chainbeat.io/)
 * [Loanscan](https://loanscan.io/)
+* [Sharpe](https://www.sharpe.ai/) - AI-driven crypto trading intelligence for derivatives positioning, DEX flow, on-chain risk, narrative rotation, and sentiment.
 * [The most granular data for cryptocurrency markets](https://tardis.dev/)
 * [DeFi Pulse unveils safety ratings to allow users to compare risk](https://cointelegraph.com/news/defi-pulse-unveils-safety-ratings-to-allow-users-to-compare-risk)
 
