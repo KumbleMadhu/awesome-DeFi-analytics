@@ -99,6 +99,7 @@ _If you want to contribute to this list (please do), create a pull request or co
 * [Loanscan](https://loanscan.io/)
 * [The most granular data for cryptocurrency markets](https://tardis.dev/)
 * [DeFi Pulse unveils safety ratings to allow users to compare risk](https://cointelegraph.com/news/defi-pulse-unveils-safety-ratings-to-allow-users-to-compare-risk)
+* [Pharos](https://pharos.watch) - Open-source stablecoin analytics dashboard tracking 390+ stablecoins with peg health scores, liquidity metrics, and risk classifications across multiple chains.
 
 ## Community
 
