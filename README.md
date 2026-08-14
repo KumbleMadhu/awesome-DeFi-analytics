@@ -99,6 +99,7 @@ _If you want to contribute to this list (please do), create a pull request or co
 * [Loanscan](https://loanscan.io/)
 * [The most granular data for cryptocurrency markets](https://tardis.dev/)
 * [DeFi Pulse unveils safety ratings to allow users to compare risk](https://cointelegraph.com/news/defi-pulse-unveils-safety-ratings-to-allow-users-to-compare-risk)
+* [AtlasYield - Independent 0-100 scores for DeFi yield vaults, with a public read-only scores API](https://atlasyield.club/)
 
 ## Community
 
