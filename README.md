@@ -103,3 +103,5 @@ _If you want to contribute to this list (please do), create a pull request or co
 ## Community
 
 * [Awesome DeFi analytics telegram](https://telegram.me/awesome_defi_analytics)
+
+- [Deep Blue Alpha](https://deepbluealpha.io) — Free real-time Ethereum whale tracker: 20,000+ wallets, live DEX swap classification, whale sentiment index, conviction scoring, daily reports, free public API.
