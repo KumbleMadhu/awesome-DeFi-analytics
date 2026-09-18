@@ -97,6 +97,7 @@ _If you want to contribute to this list (please do), create a pull request or co
 * [Alethio](https://aleth.io/data/defi)
 * [Chainbeat](https://chainbeat.io/)
 * [Loanscan](https://loanscan.io/)
+* [QuantumPools](https://quantumpools.io) - Independent LP bookkeeping and metrics for original deposits, fees, impermanent loss, and cover value across Solana and EVM.
 * [The most granular data for cryptocurrency markets](https://tardis.dev/)
 * [DeFi Pulse unveils safety ratings to allow users to compare risk](https://cointelegraph.com/news/defi-pulse-unveils-safety-ratings-to-allow-users-to-compare-risk)
 
