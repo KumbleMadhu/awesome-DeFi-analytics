@@ -99,6 +99,7 @@ _If you want to contribute to this list (please do), create a pull request or co
 * [Loanscan](https://loanscan.io/)
 * [The most granular data for cryptocurrency markets](https://tardis.dev/)
 * [DeFi Pulse unveils safety ratings to allow users to compare risk](https://cointelegraph.com/news/defi-pulse-unveils-safety-ratings-to-allow-users-to-compare-risk)
+* [DifiCalc - DeFi yield comparison, stablecoin APY tracker and protocol risk grader](https://dificalc.com/)
 
 ## Community
 
