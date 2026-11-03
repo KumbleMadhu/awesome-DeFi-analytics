@@ -99,6 +99,7 @@ _If you want to contribute to this list (please do), create a pull request or co
 * [Loanscan](https://loanscan.io/)
 * [The most granular data for cryptocurrency markets](https://tardis.dev/)
 * [DeFi Pulse unveils safety ratings to allow users to compare risk](https://cointelegraph.com/news/defi-pulse-unveils-safety-ratings-to-allow-users-to-compare-risk)
+- [DefiLPKit](https://defilpkit.com) - Free LP analytics calculator: fee APR, impermanent-loss-adjusted net yield and range testing across Uniswap v3, PancakeSwap v3, Aerodrome and Raydium CLMM pools
 
 ## Community
 
